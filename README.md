@@ -12,7 +12,9 @@ The server follows a multi-tier architecture:
 2. **Service Layer**: Contains business logic for pet matching and adoption processes
 3. **Data Access Layer**: Manages data persistence through file-based storage
 4. **Algorithmic Module**: Implements clustering algorithms for intelligent pet-adopter matching
-![צילום מסך 2025-03-27 133200](https://github.com/user-attachments/assets/d0e05bc2-8fdd-45d5-a873-a94980f77e07)
+
+![צילום מסך 2025-03-27 133200](https://github.com/user-attachments/assets/a4268da7-3fb3-4a99-9367-0886893e310f)
+
 
 
 ## Key Components
