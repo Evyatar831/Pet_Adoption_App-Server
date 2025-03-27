@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ClusteringAlgo_jar1">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib/ClusteringAlgo_jar" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/ClusteringAlgo_jar" recursive="false" />
+  </library>
+</component>
