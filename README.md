@@ -13,6 +13,8 @@ The server follows a multi-tier architecture:
 3. **Data Access Layer**: Manages data persistence through file-based storage
 4. **Algorithmic Module**: Implements clustering algorithms for intelligent pet-adopter matching
 
+   
+
 ![צילום מסך 2025-03-27 133200](https://github.com/user-attachments/assets/a4268da7-3fb3-4a99-9367-0886893e310f)
 
 
